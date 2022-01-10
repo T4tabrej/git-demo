@@ -1,1 +1,3 @@
-ignoring_file.txt
+# ignoring_file.txt
+# it will ignore all the file with extension txt
+*.txt
