@@ -1,0 +1,1 @@
+this file is creating for ignoring procees we wil put the file name of this in the .ignore  ,so it will be ignored to uplod.
