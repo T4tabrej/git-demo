@@ -1,3 +1,3 @@
 this file is creating for ignoring procees we wil put the file name of this in the .ignore  ,so it will be ignored to uplod.
 if we ant to ignore some specific file we have to add the complete the path in gitnore file
-if we want to ignore all files of same extension (*.cpp) it will ignore all the file of extension .cpp vhgchcfgfcfgc
+if we want to ignore all files of same extension (*.cpp) it will ignore all the file of extension .cpp
