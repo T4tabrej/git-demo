@@ -1,3 +1,4 @@
 # ignoring_file.txt
 # it will ignore all the file with extension txt
-*.txt
+# *.txt
+ignore_folder/
